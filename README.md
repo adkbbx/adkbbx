@@ -73,9 +73,11 @@ I am constantly seeking opportunities to expand my knowledge and skills, and I a
 </div>
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adkbbx/adkbbx/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/adkbbx/adkbbx/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/adkbbx/adkbbx/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
 </div>
