@@ -1,9 +1,10 @@
 
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&color=FFD83D&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Akshay+Dilip+Kumar)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFD83D&background=FFFFFF00&center=true&random=false&width=435&lines=----+Machine-Learning-Engineer+----;Nice+to+meet+you!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFD83D&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=----+Machine-Learning-Engineer+----;Nice+to+meet+you!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+</div>
 
 #
 
