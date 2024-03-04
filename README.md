@@ -28,15 +28,13 @@ I am constantly seeking opportunities to expand my knowledge and skills, and I a
 <div align="center">
   
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adkbbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adkbbx&card_width=350&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=adkbbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adkbbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=350&layout=compact)
 
-</div>
 </div>
 
 <div align="center">
