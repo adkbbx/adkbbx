@@ -50,9 +50,4 @@
 [![](https://visitcount.itsvg.in/api?id=adkbbx&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-adkbbx/adkbbx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![snake gif](https://github.com/adkbbx/adkbbx/blob/output/github-contribution-grid-snake.gif)
