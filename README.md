@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Akshay Dilip Kumar.
-- 👀 I’m interested in learning new technologies and meeting new people. 
-- 🌱 I’m currently working as an ML engineer.
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&color=FFD83D&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Akshay+Dilip+Kumar)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFD83D&background=FFFFFF00&center=true&random=false&width=435&lines=----+Machine-Learning-Engineer+----;Nice+to+meet+you!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
+#
 
 [![An image of @adkbbx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adkbbx)](https://holopin.io/@adkbbx)
 
 <div align="center">
+
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,5 +55,6 @@
   
 [![](https://visitcount.itsvg.in/api?id=adkbbx&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
+
 
 ![snake gif](https://github.com/adkbbx/adkbbx/blob/output/github-contribution-grid-snake.gif)
